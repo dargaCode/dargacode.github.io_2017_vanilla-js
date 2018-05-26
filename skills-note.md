@@ -2,7 +2,7 @@
 
 My C# and MySQL projects are owned by previous employers, and are closed source.
 
-<!-- Closing Hash allows the C# has to render -->
+<!-- Closing Hash allows the C# hash to render -->
 ## C# #
 
 While working at various game companies, I built tools as windows executables in C#:

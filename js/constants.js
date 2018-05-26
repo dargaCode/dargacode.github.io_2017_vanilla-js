@@ -30,7 +30,7 @@ const CONSTANTS = (function() {
       projectCount: 3,
       iconClass: 'devicon-csharp-plain',
       type: 'Language',
-      gitHubSearchUrl: 'https://github.com/dargaCode/dargacode.github.io/blob/master/skills-note.md#c',
+      gitHubSearchUrl: 'https://github.com/dargaCode/dargacode.github.io_2017_vanilla-js/blob/master/skills-note.md#c',
     },
     {
       name: 'CSS',
@@ -86,7 +86,7 @@ const CONSTANTS = (function() {
       projectCount: 3,
       iconClass: 'devicon-mysql-plain',
       type: 'Database',
-      gitHubSearchUrl: 'https://github.com/dargaCode/dargacode.github.io/blob/master/skills-note.md#mysql',
+      gitHubSearchUrl: 'https://github.com/dargaCode/dargacode.github.io_2017_vanilla-js/blob/master/skills-note.md#c',
     },
     {
       name: 'Node.js',

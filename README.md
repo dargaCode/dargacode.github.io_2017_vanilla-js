@@ -1,16 +1,8 @@
-# dargaCode Portfolio Site
+# dargaCode.github.io (Vanilla JS, 2017)
 <strong>Language: HTML/CSS/JS</strong>
 
-I'm working on this site very gradually, and using it to learn/incorporate best practices for HTML/CSS/JS. That said, I also want to keep things very vanilla and avoid installing frameworks etc.
+This original version of my portfolio page was created using vanilla javascript DOM manipulation. It's a typical starter portfolio with scrolling and section anchors.
 
-**To-Do:**
-* Improved accessibility
-* Custom 404 page
-* A few more small JS features.
-* Bundled/minified code
-* Analytics
-* SEO
+<img src ="https://dargacode.com/dargacode.github.io_2017_vanilla-js/img/project-thumbnails/portfolio.jpg" width="500">
 
-<img src ="http://dargacode.github.io/img/project-thumbnails/portfolio.jpg" width="500">
-
-**<a href="http://dargacode.github.io"><b>Live Webpage</b></a>**
+**<a href="https://dargacode.com/dargacode.github.io_2017_vanilla-js/"><b>Live Webpage</b></a>**
